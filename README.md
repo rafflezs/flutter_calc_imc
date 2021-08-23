@@ -15,7 +15,7 @@ A simple Body Mass Index calculator with real-time values (no refresh needed), f
 
 In order to execute this code, follow these steps:
 
-1. make shure you have [https://flutter.dev/docs/get-started/install](http://github.com) installed and set-up
+1. make shure you have [Flutter SDK](https://flutter.dev/docs/get-started/install) installed and set-up
     1. Make sure you also have a device (emulated or physical) 
 2. clone this repo: `$ git clone https://github.com/rafflezs/flutter_calc_imc`
 3. change directory to the cloned repo folder: `cd flutter_calc_imc` 
